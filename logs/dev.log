@@ -1,0 +1,10 @@
+2018/09/07 15:04:55.191 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/09/07 15:05:41.807 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:05:41] "GET /swagger/index.html HTTP/1.1 404 0" 0.000479  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:06:37.397 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/09/07 15:07:04.325 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:07:04] "GET /swagger/index.html HTTP/1.1 200 0" 0.000215  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:07:04.451 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:07:04] "GET /swagger/swagger.json HTTP/1.1 200 0" 0.000238 http://localhost:8080/swagger/index.html Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:07:21.132 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:07:21] "GET /v1/object/ HTTP/1.1 200 0" 0.000185 http://localhost:8080/swagger/index.html Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
