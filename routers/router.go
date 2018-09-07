@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"mydaily/controllers"
+	"github.com/fighting9527/mydaily/controllers"
 
 	"github.com/astaxie/beego"
 )

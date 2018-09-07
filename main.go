@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "mydaily/routers"
+	_ "github.com/fighting9527/mydaily/routers"
 
 	"github.com/astaxie/beego"
 	_ "github.com/Go-SQL-Driver/MySQL"

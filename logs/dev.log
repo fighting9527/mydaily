@@ -8,3 +8,17 @@
 
 2018/09/07 15:07:21.132 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:07:21] "GET /v1/object/ HTTP/1.1 200 0" 0.000185 http://localhost:8080/swagger/index.html Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
 
+2018/09/07 15:51:43.872 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/09/07 15:51:46.871 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/09/07 15:51:58.094 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:51:58] "GET /swagger/index.html HTTP/1.1 200 0" 0.000378  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:51:58.197 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:51:58] "GET /swagger/swagger.json HTTP/1.1 200 0" 0.000177 http://localhost:8080/swagger/index.html Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:51:58.346 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:51:58] "GET /swagger/favicon-32x32.png HTTP/1.1 200 0" 0.000162 http://localhost:8080/swagger/index.html Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:51:59.691 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:51:59] "GET /swagger/index.html HTTP/1.1 304 0" 0.000055  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:51:59.761 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:51:59] "GET /swagger/swagger.json HTTP/1.1 304 0" 0.000047 http://localhost:8080/swagger/index.html Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+
+2018/09/07 15:51:59.864 [D] [server.go:2694] ::1 - - [07/Sep/2018 03:51:59] "GET /swagger/favicon-32x32.png HTTP/1.1 200 0" 0.000068 http://localhost:8080/swagger/index.html Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+

@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"mydaily/models"
+	"github.com/fighting9527/mydaily/models"
 	"encoding/json"
 
 	"github.com/astaxie/beego"
